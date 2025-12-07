@@ -97,6 +97,12 @@ Add screenshots of your projects here:
 
 ---
 
+## 🔗 Links
+- **GitHub Repo:** https://github.com/elhamshaikh-10/OIBSIP_webdevelopment_level1
+- **LinkedIn Post:** https://www.linkedin.com/posts/elham-shaikh-02485b36b_webdevelopment-frontend-oibsip-activity-7403379065350443009--H2M?utm_source=share&utm_medium=member_android&rcm=ACoAAFvI71wBKQb1mttBaJ1omlWSO2teNY1Naus
+
+---
+
 ## ▶️ Outcome
 Successfully built and deployed Level 1 tasks showcasing web development fundamentals, responsive design, and UI/UX principles.
 
